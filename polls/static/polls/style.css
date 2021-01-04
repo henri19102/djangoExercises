@@ -1,0 +1,8 @@
+.list-group {
+    margin: 1%;
+}
+
+.col-md-8 {
+    background-image: url("images/background.jpg");
+    background-size: cover;
+}
